@@ -1,0 +1,634 @@
+﻿Order,Sample,Age,Sex,Sp. Nr.,Species,Class,Order,Family,Pest,Migratory,Wingspan (mm),No. Reads,Date
+1,366,Ad,F,52,Ethmia bipunctella,Insecta,Lepidoptera,Depressariidae,no,no,23.5,32672,20/7/2012
+2,366,Ad,F,22,Bradycellus verbasci,Insecta,Coleoptera,Carabidae,no,no,na,411,20/7/2012
+3,367,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,14796,20/7/2012
+4,367,Ad,F,98,Rhyacia simulans,Insecta,Lepidoptera,Noctuidae,no,yes,52.5,8953,20/7/2012
+5,367,Ad,F,114,Xestia c-nigrum,Insecta,Lepidoptera,Noctuidae,yes,yes,40,3472,20/7/2012
+6,367,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,3282,20/7/2012
+7,367,Ad,F,2,Acrobasis obliqua,Insecta,Lepidoptera,Pyralidae,no,no,na,2178,20/7/2012
+8,367,Ad,F,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,1807,20/7/2012
+9,367,Ad,F,70,Leucania loreyi,Insecta,Lepidoptera,Noctuidae,yes,yes,39,1067,20/7/2012
+10,367,Ad,F,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,925,20/7/2012
+11,367,Ad,F,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,655,20/7/2012
+12,584,Ad,F,49,Diptera sp.,Insecta,Diptera,unclassified Diptera,no,no,na,21149,10/9/2012
+13,584,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,8499,10/9/2012
+14,584,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,3693,10/9/2012
+15,584,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,2277,10/9/2012
+16,584,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1820,10/9/2012
+17,584,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1319,10/9/2012
+18,598,Ad,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,10590,10/9/2012
+19,598,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,3891,10/9/2012
+20,598,Ad,M,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,3099,10/9/2012
+21,598,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,2651,10/9/2012
+22,598,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,651,10/9/2012
+23,606,Ad,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,9226,10/9/2012
+24,606,Ad,M,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,6123,10/9/2012
+25,606,Ad,M,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,4018,10/9/2012
+26,606,Ad,M,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,2877,10/9/2012
+27,606,Ad,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,1173,10/9/2012
+28,606,Ad,M,63,Hemerobius stigma,Insecta,Neuroptera,Hemerobiidae,no,no,na,274,10/9/2012
+29,628,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,29882,10/9/2012
+30,628,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2481,10/9/2012
+31,628,Ad,F,9,Agrotis lata,Insecta,Lepidoptera,Noctuidae,no,no,40,365,10/9/2012
+32,716,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,37862,21/9/2012
+33,716,Juv,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,4313,21/9/2012
+34,716,Juv,M,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,2122,21/9/2012
+35,716,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,915,21/9/2012
+36,716,Juv,M,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,689,21/9/2012
+37,716,Juv,M,111,Uresiphita gilvata/ polygonalis,Insecta,Lepidoptera,Crambidae,no,yes,32,636,21/9/2012
+38,716,Juv,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,551,21/9/2012
+39,719,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,43499,21/9/2012
+40,725,Juv,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,22518,21/9/2012
+41,725,Juv,M,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,6056,21/9/2012
+42,725,Juv,M,14,Anomis cataggelus*,Insecta,Lepidoptera,Erebidae,no,no,na,4448,21/9/2012
+43,725,Juv,M,24,Calophasia platyptera,Insecta,Lepidoptera,Noctuidae,no,no,30,479,21/9/2012
+44,726,Juv,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,8054,21/9/2012
+45,726,Juv,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,6682,21/9/2012
+46,726,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,5753,21/9/2012
+47,726,Juv,M,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,4992,21/9/2012
+48,726,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,476,21/9/2012
+49,727,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,22648,21/9/2012
+50,727,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1253,21/9/2012
+51,732,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,41608,21/9/2012
+52,733,Ad,M,113,Xestia agathina,Insecta,Lepidoptera,Noctuidae,no,no,32,23167,21/9/2012
+53,733,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,725,21/9/2012
+54,734,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,16951,21/9/2012
+55,734,Juv,M,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,6770,21/9/2012
+56,734,Juv,M,99,Spodoptera exigua,Insecta,Lepidoptera,Noctuidae,yes,no,29,4563,21/9/2012
+57,734,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2558,21/9/2012
+58,734,Juv,M,70,Leucania loreyi,Insecta,Lepidoptera,Noctuidae,yes,yes,39,1655,21/9/2012
+59,734,Juv,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,1095,21/9/2012
+60,734,Juv,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,595,21/9/2012
+61,742,Ad,F,56,Eugnorisma glareosa,Insecta,Lepidoptera,Noctuidae,yes,no,35,30651,21/9/2012
+62,801,Ad,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,11762,4/10/2012
+63,801,Ad,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,4863,4/10/2012
+64,801,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,3640,4/10/2012
+65,801,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2584,4/10/2012
+66,801,Ad,M,75,Mythimna riparia,Insecta,Lepidoptera,Noctuidae,no,no,na,1917,4/10/2012
+67,801,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1404,4/10/2012
+68,838,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,13865,7/10/2012
+69,838,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,7345,7/10/2012
+70,838,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1763,7/10/2012
+71,838,Ad,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,1310,7/10/2012
+72,838,Ad,M,2,Acrobasis obliqua,Insecta,Lepidoptera,Pyralidae,no,no,na,1276,7/10/2012
+73,838,Ad,M,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,1226,7/10/2012
+74,841,Ad,M,20,Autophila dilucida,Insecta,Lepidoptera,Erebidae,no,no,na,12820,7/10/2012
+75,841,Ad,M,70,Leucania loreyi,Insecta,Lepidoptera,Noctuidae,yes,yes,39,9679,7/10/2012
+76,841,Ad,M,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,2622,7/10/2012
+77,841,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,1803,7/10/2012
+78,841,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,1622,7/10/2012
+79,841,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,1329,7/10/2012
+80,841,Ad,M,97,Rhoptria asperaria,Insecta,Lepidoptera,Noctuidae,no,no,22.5,1323,7/10/2012
+81,841,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,753,7/10/2012
+82,841,Ad,M,30,Chloantha hyperici/ Helicoverpa armigera,Insecta,Lepidoptera,Noctuidae,yes,yes,35,645,7/10/2012
+83,841,Ad,M,80,Noctua tirrenica,Insecta,Lepidoptera,Noctuidae,no,no,51,503,7/10/2012
+84,841,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,435,7/10/2012
+85,850,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,39150,7/10/2012
+86,873,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,11700,9/10/2012
+87,873,Ad,F,12,Anarta trifolii/ Plemyria rubiginata/ Choristoneura hebenstreitella,Insecta,Lepidoptera,Noctuidae / Geometridae / Tortricidae,yes,yes,29,10822,9/10/2012
+88,873,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,7312,9/10/2012
+89,873,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,6702,9/10/2012
+90,873,Ad,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2315,9/10/2012
+91,873,Ad,F,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,778,9/10/2012
+92,873,Ad,F,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,647,9/10/2012
+93,890,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,43986,11/10/2012
+94,890,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,2983,11/10/2012
+95,890,Ad,F,2,Acrobasis obliqua,Insecta,Lepidoptera,Pyralidae,no,no,na,1086,11/10/2012
+96,1027,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,25695,16/4/2013
+97,1027,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,3222,16/4/2013
+98,1027,Ad,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,3014,16/4/2013
+99,1027,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,1577,16/4/2013
+100,1027,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,1328,16/4/2013
+101,1027,Ad,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,1204,16/4/2013
+102,1027,Ad,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,516,16/4/2013
+103,1027,Ad,M,36,Chrysoteuchia culmella,Insecta,Lepidoptera,Crambidae,yes,no,21,462,16/4/2013
+104,1043,Ad,M,15,Aporophyla lueneburgensis,Insecta,Lepidoptera,Noctuidae,no,no,38.5,14158,16/4/2013
+105,1043,Ad,M,39,Compsoptera opacaria,Insecta,Lepidoptera,Geometridae,no,no,39.5,5562,16/4/2013
+106,1043,Ad,M,90,Plebejus argusº,Insecta,Lepidoptera,Lycaenidae,no,no,29,4048,16/4/2013
+107,1043,Ad,M,56,Eugnorisma glareosa,Insecta,Lepidoptera,Noctuidae,yes,no,35,2945,16/4/2013
+108,1043,Ad,M,54,Eucoptocnemis optabilis,Insecta,Lepidoptera,Noctuidae,no,no,na,2081,16/4/2013
+109,1043,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1519,16/4/2013
+110,1043,Ad,M,78,Noctua orbona,Insecta,Lepidoptera,Noctuidae,no,no,41.5,750,16/4/2013
+111,1043,Ad,M,51,Ennomos quercinaria,Insecta,Lepidoptera,Geometridae,yes,no,46,574,16/4/2013
+112,1043,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,537,16/4/2013
+113,1097,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,38903,20/4/2013
+114,1097,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,13937,20/4/2013
+115,1097,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,1048,20/4/2013
+116,1120,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,20079,20/4/2013
+117,1120,Ad,M,13,Angustalius malacellus,Insecta,Lepidoptera,Crambidae,yes,no,na,4843,20/4/2013
+118,1120,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,546,20/4/2013
+119,1120,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,386,20/4/2013
+120,1120,Ad,M,69,Insecta sp.1,Insecta,unclassified Insecta,unclassified Insecta,no,no,na,341,20/4/2013
+121,1120,Ad,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,338,20/4/2013
+122,1132,Ad,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,26707,22/4/2013
+123,1132,Ad,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,2359,22/4/2013
+124,1132,Ad,M,102,Thalpophila vitalba,Insecta,Lepidoptera,Noctuidae,yes,no,42,1083,22/4/2013
+125,1132,Ad,M,23,Bryotropha terrella,Insecta,Lepidoptera,Gelechiidae,no,no,15,1003,22/4/2013
+126,1132,Ad,M,82,Nycteola revayana,Insecta,Lepidoptera,Nolidae,yes,no,22.5,1000,22/4/2013
+127,1134,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,35493,22/4/2013
+128,1134,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,6163,22/4/2013
+129,1134,Ad,F,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,902,22/4/2013
+130,1149,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,30038,24/4/2013
+131,1149,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,1194,24/4/2013
+132,1149,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1102,24/4/2013
+133,1149,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1010,24/4/2013
+134,1149,Ad,F,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,962,24/4/2013
+135,1149,Ad,F,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,657,24/4/2013
+136,1149,Ad,F,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,471,24/4/2013
+137,1150,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,21146,24/4/2013
+138,1150,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,10501,24/4/2013
+139,1150,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,6141,24/4/2013
+140,1150,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,3479,24/4/2013
+141,1183,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,10123,4/5/2013
+142,1183,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,8143,4/5/2013
+143,1183,Ad,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,4365,4/5/2013
+144,1183,Ad,M,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,2737,4/5/2013
+145,1187,Ad,M,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,13808,4/5/2013
+146,1187,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,6668,4/5/2013
+147,1191,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,11495,4/5/2013
+148,1191,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,11385,4/5/2013
+149,1191,Ad,M,106,Tipula paludosa,Insecta,Diptera,Tipulidae,no,no,na,3327,4/5/2013
+150,1191,Ad,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,788,4/5/2013
+151,1191,Ad,M,107,Tipula subcunctans,Insecta,Diptera,Tipulidae,no,no,na,659,4/5/2013
+152,1191,Ad,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,443,4/5/2013
+153,1193,Ad,F,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,11151,4/5/2013
+154,1193,Ad,F,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,9028,4/5/2013
+155,1193,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,618,4/5/2013
+156,1193,Ad,F,61,Gymnoscelis rufifasciata,Insecta,Lepidoptera,Geometridae,yes,no,17,567,4/5/2013
+157,1193,Ad,F,66,Idaea degeneraria,Insecta,Lepidoptera,Geometridae,no,no,28.5,498,4/5/2013
+158,1194,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,11520,4/5/2013
+159,1194,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,3974,4/5/2013
+160,1194,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,3573,4/5/2013
+161,1194,Ad,F,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,1655,4/5/2013
+162,1194,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,1583,4/5/2013
+163,1195,Ad,M,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,23037,4/5/2013
+164,1195,Ad,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,1507,4/5/2013
+165,1195,Ad,M,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,906,4/5/2013
+166,1195,Ad,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,781,4/5/2013
+167,1203,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,9094,4/5/2013
+168,1203,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,8763,4/5/2013
+169,1203,Ad,F,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,4178,4/5/2013
+170,1203,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,3580,4/5/2013
+171,1203,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,990,4/5/2013
+172,1203,Ad,F,30,Chloantha hyperici/ Helicoverpa armigera,Insecta,Lepidoptera,Noctuidae,yes,yes,35,692,4/5/2013
+173,1203,Ad,F,57,Eupithecia laquaearia,Insecta,Lepidoptera,Geometridae,no,no,13.5,684,4/5/2013
+174,1224,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,27812,7/5/2013
+175,1225,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,12773,7/5/2013
+176,1225,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,7232,7/5/2013
+177,1225,Ad,M,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,1935,7/5/2013
+178,1225,Ad,M,87,Papaipema nebris*,Insecta,Lepidoptera,Noctuidae,no,no,na,1717,7/5/2013
+179,1225,Ad,M,114,Xestia c-nigrum,Insecta,Lepidoptera,Noctuidae,yes,yes,40,549,7/5/2013
+180,1228,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,20380,7/5/2013
+181,1228,Ad,F,59,Euxoa nigrofusca/obelisca,Insecta,Lepidoptera,Noctuidae,no,no,34,17721,7/5/2013
+182,1231,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,15096,7/5/2013
+183,1231,Ad,M,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,3740,7/5/2013
+184,1231,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1669,7/5/2013
+185,1231,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,1115,7/5/2013
+186,1231,Ad,M,47,Cydia fagiglandana,Insecta,Lepidoptera,Tortricidae,no,no,14,769,7/5/2013
+187,1246,Ad,M,7,Agrochola lunosa,Insecta,Lepidoptera,Noctuidae,no,no,35,9926,9/5/2013
+188,1246,Ad,M,56,Eugnorisma glareosa,Insecta,Lepidoptera,Noctuidae,yes,no,35,5921,9/5/2013
+189,1246,Ad,M,109,Trigonophora jodea,Insecta,Lepidoptera,Noctuidae,no,no,na,4182,9/5/2013
+190,1246,Ad,M,91,Polymixis argillaceago,Insecta,Lepidoptera,Noctuidae,no,no,36.5,2691,9/5/2013
+191,1246,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,2161,9/5/2013
+192,1246,Ad,M,50,Dryobotodes eremita,Insecta,Lepidoptera,Noctuidae,yes,no,35.5,1299,9/5/2013
+193,1246,Ad,M,27,Caradrina morpheus,Insecta,Lepidoptera,Noctuidae,no,no,35,699,9/5/2013
+194,1246,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,607,9/5/2013
+195,1246,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,349,9/5/2013
+196,1268,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,23928,9/5/2013
+197,1268,Ad,F,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,7909,9/5/2013
+198,1268,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,4662,9/5/2013
+199,1268,Ad,F,40,Crocallis dardoinaria,Insecta,Lepidoptera,Geometridae,no,no,49,2497,9/5/2013
+200,1268,Ad,F,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,2172,9/5/2013
+201,1268,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,1299,9/5/2013
+202,1268,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1037,9/5/2013
+203,1272,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,18746,9/5/2013
+204,1272,Ad,F,42,Cryphia algae/ pallida,Insecta,Lepidoptera,Noctuidae,no,yes,25,3203,9/5/2013
+205,1272,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1806,9/5/2013
+206,1272,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1391,9/5/2013
+207,1276,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,14060,9/5/2013
+208,1276,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,11454,9/5/2013
+209,1276,Ad,M,38,Coenobia rufa,Insecta,Lepidoptera,Noctuidae,no,no,23.5,2427,9/5/2013
+210,1276,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,401,9/5/2013
+211,1276,Ad,M,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,344,9/5/2013
+212,1311,Ad,F,59,Euxoa nigrofusca/obelisca,Insecta,Lepidoptera,Noctuidae,no,no,34,40510,13/5/2013
+213,1316,Ad,M,113,Xestia agathina,Insecta,Lepidoptera,Noctuidae,no,no,32,24007,13/5/2013
+214,1316,Ad,M,102,Thalpophila vitalba,Insecta,Lepidoptera,Noctuidae,yes,no,42,2196,13/5/2013
+215,1316,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,841,13/5/2013
+216,1316,Ad,M,60,Euxoa temera,Insecta,Lepidoptera,Noctuidae,no,no,32.5,829,13/5/2013
+217,1316,Ad,M,55,Eugnorisma arenoflavida,Insecta,Lepidoptera,Noctuidae,no,no,na,348,13/5/2013
+218,1317,Ad,M,7,Agrochola lunosa,Insecta,Lepidoptera,Noctuidae,no,no,35,22609,13/5/2013
+219,1317,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,6856,13/5/2013
+220,1317,Ad,M,111,Uresiphita gilvata/ polygonalis,Insecta,Lepidoptera,Crambidae,no,yes,32,4189,13/5/2013
+221,1317,Ad,M,44,Cunctochrysa albolineata,Insecta,Neuroptera,Chrysopidae,no,no,na,3650,13/5/2013
+222,1317,Ad,M,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,2354,13/5/2013
+223,1317,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,2002,13/5/2013
+224,1317,Ad,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,1654,13/5/2013
+225,1317,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,771,13/5/2013
+226,1318,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,24238,13/5/2013
+227,1318,Ad,M,7,Agrochola lunosa,Insecta,Lepidoptera,Noctuidae,no,no,35,4531,13/5/2013
+228,1318,Ad,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,4424,13/5/2013
+229,1318,Ad,M,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,3878,13/5/2013
+230,1318,Ad,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,2543,13/5/2013
+231,1318,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,1714,13/5/2013
+232,1318,Ad,M,104,Tipula invenusta,Insecta,Diptera,Tipulidae,no,no,na,1356,13/5/2013
+233,1318,Ad,M,86,Pachycnemia hippocastanaria,Insecta,Lepidoptera,Geometridae,no,no,30,503,13/5/2013
+234,1319,Ad,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,13391,13/5/2013
+235,1319,Ad,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,10218,13/5/2013
+236,1319,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,6933,13/5/2013
+237,1319,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2289,13/5/2013
+238,1319,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,879,13/5/2013
+239,1319,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,807,13/5/2013
+240,1320,Ad,F,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,49236,13/5/2013
+241,1321,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,19132,13/5/2013
+242,1321,Ad,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,3588,13/5/2013
+243,1321,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2606,13/5/2013
+244,1321,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,1281,13/5/2013
+245,1321,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,351,13/5/2013
+246,1321,Ad,M,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,336,13/5/2013
+247,1322,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,23266,13/5/2013
+248,1322,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,12053,13/5/2013
+249,1322,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,5326,13/5/2013
+250,1322,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1809,13/5/2013
+251,1322,Ad,F,3,Agonopterix pupillana*,Insecta,Lepidoptera,Depressariidae,no,no,na,1676,13/5/2013
+252,1322,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1651,13/5/2013
+253,1322,Ad,F,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,1243,13/5/2013
+254,1344,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,23040,15/5/2013
+255,1344,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,396,15/5/2013
+256,1345,Ad,F,9,Agrotis lata,Insecta,Lepidoptera,Noctuidae,no,no,40,38973,15/5/2013
+257,1345,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,910,15/5/2013
+258,1345,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,457,15/5/2013
+259,1347,Ad,F,83,Nyctobrya muralis,Insecta,Lepidoptera,Noctuidae,no,no,30.5,14941,15/5/2013
+260,1347,Ad,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,14333,15/5/2013
+261,1347,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,12515,15/5/2013
+262,1347,Ad,F,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,1211,15/5/2013
+263,1353,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,32030,15/5/2013
+264,1353,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,4565,15/5/2013
+265,1353,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2225,15/5/2013
+266,1353,Ad,F,12,Anarta trifolii/ Plemyria rubiginata/ Choristoneura hebenstreitella,Insecta,Lepidoptera,Noctuidae / Geometridae / Tortricidae,yes,yes,29,1503,15/5/2013
+267,1373,Ad,F,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,24745,12/6/2013
+268,1373,Ad,F,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,5217,12/6/2013
+269,1373,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,4713,12/6/2013
+270,1373,Ad,F,59,Euxoa nigrofusca/obelisca,Insecta,Lepidoptera,Noctuidae,no,no,34,4537,12/6/2013
+271,1373,Ad,F,80,Noctua tirrenica,Insecta,Lepidoptera,Noctuidae,no,no,51,1204,12/6/2013
+272,1375,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,14432,12/6/2013
+273,1375,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2809,12/6/2013
+274,1375,Ad,M,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,856,12/6/2013
+275,1375,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,520,12/6/2013
+276,1385,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,17714,16/6/2013
+277,1385,Ad,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,9429,16/6/2013
+278,1385,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,1109,16/6/2013
+279,1385,Ad,M,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,651,16/6/2013
+280,1388,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,19268,16/6/2013
+281,1388,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,15641,16/6/2013
+282,1388,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,2119,16/6/2013
+283,1388,Ad,F,3,Agonopterix pupillana*,Insecta,Lepidoptera,Depressariidae,no,no,na,1778,16/6/2013
+284,1388,Ad,F,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,1705,16/6/2013
+285,1388,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,614,16/6/2013
+286,1388,Ad,F,90,Plebejus argusº,Insecta,Lepidoptera,Lycaenidae,no,no,29,566,16/6/2013
+287,1433,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,21593,20/6/2013
+288,1433,Ad,M,47,Cydia fagiglandana,Insecta,Lepidoptera,Tortricidae,no,no,14,3249,20/6/2013
+289,1434,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,28800,20/6/2013
+290,1436,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,4868,20/6/2013
+291,1436,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,2287,20/6/2013
+292,1436,Ad,F,70,Leucania loreyi,Insecta,Lepidoptera,Noctuidae,yes,yes,39,2043,20/6/2013
+293,1436,Ad,F,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,190,20/6/2013
+294,1440,Ad,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,13565,20/6/2013
+295,1440,Ad,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,8165,20/6/2013
+296,1440,Ad,M,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,2862,20/6/2013
+297,1440,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2588,20/6/2013
+298,1440,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1462,20/6/2013
+299,1440,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,604,20/6/2013
+300,1440,Ad,M,9,Agrotis lata,Insecta,Lepidoptera,Noctuidae,no,no,40,549,20/6/2013
+301,1440,Ad,M,28,Caradrina morpheus/ Carpatolechia sp./ Lacanobia contigua,Insecta,Lepidoptera,Noctuidae/ Gelechiidae/ Noctuidae,no,no,37,357,20/6/2013
+302,1467,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,30032,24/6/2013
+303,1467,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,7924,24/6/2013
+304,1467,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,1339,24/6/2013
+305,1467,Ad,F,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,851,24/6/2013
+306,1469,Ad,F,15,Aporophyla lueneburgensis,Insecta,Lepidoptera,Noctuidae,no,no,38.5,44861,24/6/2013
+307,1477,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,41557,24/6/2013
+308,1479,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,43043,24/6/2013
+309,1479,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,635,24/6/2013
+310,1536,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,26980,16/7/2013
+311,1536,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,7861,16/7/2013
+312,1536,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,5066,16/7/2013
+313,1536,Ad,F,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,1325,16/7/2013
+314,1536,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,865,16/7/2013
+315,1539,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,22521,16/7/2013
+316,1539,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,4522,16/7/2013
+317,1539,Ad,F,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,3576,16/7/2013
+318,1539,Ad,F,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,2445,16/7/2013
+319,1539,Ad,F,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,825,16/7/2013
+320,1539,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,701,16/7/2013
+321,1552,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,41588,3/8/2013
+322,1567,Ad,F,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,39969,3/8/2013
+323,1567,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,2984,3/8/2013
+324,1567,Ad,F,111,Uresiphita gilvata/ polygonalis,Insecta,Lepidoptera,Crambidae,no,yes,32,1721,3/8/2013
+325,1569,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,16188,3/8/2013
+326,1569,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,10845,3/8/2013
+327,1569,Ad,F,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,647,3/8/2013
+328,1581,Ad,F,41,Crocidosema plebejana ,Insecta,Lepidoptera,Tortricidae,no,no,14,36258,12/8/2013
+329,1582,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,13096,12/8/2013
+330,1582,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,6637,12/8/2013
+331,1582,Ad,F,30,Chloantha hyperici/ Helicoverpa armigera,Insecta,Lepidoptera,Noctuidae,yes,yes,35,3567,12/8/2013
+332,1630,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,14176,3/9/2013
+333,1630,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,9702,3/9/2013
+334,1630,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,7353,3/9/2013
+335,1630,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,483,3/9/2013
+336,1670,Ad,F,59,Euxoa nigrofusca/obelisca,Insecta,Lepidoptera,Noctuidae,no,no,34,17304,5/9/2013
+337,1670,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,7955,5/9/2013
+338,1670,Ad,F,100,Synaphe punctalis,Insecta,Lepidoptera,Pyralidae,no,no,24.5,5010,5/9/2013
+339,1670,Ad,F,46,Cyclophora puppillaria,Insecta,Lepidoptera,Geometridae,yes,yes,32,3475,5/9/2013
+340,1670,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,2611,5/9/2013
+341,1670,Ad,F,112,Wesmaelius subnebulosus,Insecta,Neuroptera,Hemerobiidae,no,no,na,2430,5/9/2013
+342,1670,Ad,F,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,1627,5/9/2013
+343,1670,Ad,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,994,5/9/2013
+344,1674,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,12800,5/9/2013
+345,1674,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,8788,5/9/2013
+346,1674,Ad,F,68,Idaea sardoniata,Insecta,Lepidoptera,Geometridae,no,no,na,5753,5/9/2013
+347,1674,Ad,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,1902,5/9/2013
+348,1674,Ad,F,21,Botyodes diniasalis,Insecta,Lepidoptera,Crambidae,yes,no,30,993,5/9/2013
+349,1674,Ad,F,5,Agonopterix thapsiella,Insecta,Lepidoptera,Depressariidae,no,no,na,738,5/9/2013
+350,1674,Ad,F,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,398,5/9/2013
+351,1674,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,363,5/9/2013
+352,1678,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,35563,5/9/2013
+353,1678,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,2113,5/9/2013
+354,1679,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,23282,5/9/2013
+355,1679,Ad,F,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,4448,5/9/2013
+356,1679,Ad,F,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,2384,5/9/2013
+357,1679,Ad,F,92,Pseudenargia ulicis,Insecta,Lepidoptera,Noctuidae,no,no,42,839,5/9/2013
+358,1679,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,706,5/9/2013
+359,1706,Ad,M,98,Rhyacia simulans,Insecta,Lepidoptera,Noctuidae,no,yes,52.5,35204,15/9/2013
+360,1709,Juv,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,11202,15/9/2013
+361,1709,Juv,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,8435,15/9/2013
+362,1709,Juv,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,7456,15/9/2013
+363,1709,Juv,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,7061,15/9/2013
+364,1709,Juv,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,5069,15/9/2013
+365,1710,Ad,M,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,13552,15/9/2013
+366,1710,Ad,M,23,Bryotropha terrella,Insecta,Lepidoptera,Gelechiidae,no,no,15,9859,15/9/2013
+367,1710,Ad,M,32,Chrysopa viridana,Insecta,Neuroptera,Chrysopidae,no,no,na,5673,15/9/2013
+368,1710,Ad,M,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,2675,15/9/2013
+369,1710,Ad,M,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,2472,15/9/2013
+370,1710,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,1031,15/9/2013
+371,1710,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,675,15/9/2013
+372,1710,Ad,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,567,15/9/2013
+373,1710,Ad,M,61,Gymnoscelis rufifasciata,Insecta,Lepidoptera,Geometridae,yes,no,17,567,15/9/2013
+374,1712,Juv,M,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,135881,15/9/2013
+375,1712,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,21576,15/9/2013
+376,1712,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,9788,15/9/2013
+377,1712,Juv,M,108,Trigonophora haasi,Insecta,Lepidoptera,Noctuidae,no,no,na,4543,15/9/2013
+378,1713,Juv,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,17497,15/9/2013
+379,1713,Juv,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1781,15/9/2013
+380,1718,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,35664,15/9/2013
+381,1718,Juv,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,2244,15/9/2013
+382,1718,Juv,M,85,Onychora agaritharia,Insecta,Lepidoptera,Geometridae,no,no,na,774,15/9/2013
+383,1718,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,552,15/9/2013
+384,1723,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,33745,15/9/2013
+385,1723,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,3408,15/9/2013
+386,1723,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,1801,15/9/2013
+387,1723,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,1231,15/9/2013
+388,1726,Ad,M,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,18877,15/9/2013
+389,1726,Ad,M,47,Cydia fagiglandana,Insecta,Lepidoptera,Tortricidae,no,no,14,11309,15/9/2013
+390,1727,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,15737,17/9/2013
+391,1727,Juv,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,2551,17/9/2013
+392,1727,Juv,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,1322,17/9/2013
+393,1727,Juv,M,25,Camptogramma bilineata,Insecta,Lepidoptera,Geometridae,no,no,22.5,949,17/9/2013
+394,1727,Juv,M,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,532,17/9/2013
+395,1727,Juv,M,33,Chrysoperla lucasina/ carnea,Insecta,Neuroptera,Chrysopidae,no,no,na,269,17/9/2013
+396,1728,Juv,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,17565,17/9/2013
+397,1728,Juv,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,3854,17/9/2013
+398,1728,Juv,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1355,17/9/2013
+399,1733,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,23012,17/9/2013
+400,1735,Juv,M,102,Thalpophila vitalba,Insecta,Lepidoptera,Noctuidae,yes,no,42,10379,17/9/2013
+401,1735,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,6238,17/9/2013
+402,1735,Juv,M,71,Leucochlaena oditis,Insecta,Lepidoptera,Noctuidae,no,no,32,5582,17/9/2013
+403,1735,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,2465,17/9/2013
+404,1735,Juv,M,74,Mythimna unipuncta/ Leucania zeae,Insecta,Lepidoptera,Noctuidae,yes,yes,44.5,2106,17/9/2013
+405,1735,Juv,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,712,17/9/2013
+406,1735,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,560,17/9/2013
+407,1736,Juv,F,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,16149,17/9/2013
+408,1736,Juv,F,40,Crocallis dardoinaria,Insecta,Lepidoptera,Geometridae,no,no,49,7889,17/9/2013
+409,1736,Juv,F,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,7713,17/9/2013
+410,1736,Juv,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,422,17/9/2013
+411,1737,Juv,F,25,Camptogramma bilineata,Insecta,Lepidoptera,Geometridae,no,no,22.5,19472,17/9/2013
+412,1737,Juv,F,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,2151,17/9/2013
+413,1737,Juv,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,587,17/9/2013
+414,1737,Juv,F,101,Teleiopsis diffinis/ bagriotella/ Eupithecia sp.,Insecta,Lepidoptera,Gelechiidae/ Geometridae,no,no,17.5,411,17/9/2013
+415,1738,Juv,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,22715,17/9/2013
+416,1741,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,17682,17/9/2013
+417,1741,Juv,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,3968,17/9/2013
+418,1741,Juv,M,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,2741,17/9/2013
+419,1741,Juv,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,2019,17/9/2013
+420,1741,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,796,17/9/2013
+421,1741,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,580,17/9/2013
+422,1741,Juv,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,314,17/9/2013
+423,1743,Juv,F,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,14811,17/9/2013
+424,1743,Juv,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,2932,17/9/2013
+425,1743,Juv,F,9,Agrotis lata,Insecta,Lepidoptera,Noctuidae,no,no,40,664,17/9/2013
+426,1743,Juv,F,28,Caradrina morpheus/ Carpatolechia sp./ Lacanobia contigua,Insecta,Lepidoptera,Noctuidae/ Gelechiidae/ Noctuidae,no,no,37,616,17/9/2013
+427,1743,Juv,F,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,250,17/9/2013
+428,1744,Juv,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,9815,17/9/2013
+429,1744,Juv,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,8086,17/9/2013
+430,1744,Juv,M,61,Gymnoscelis rufifasciata,Insecta,Lepidoptera,Geometridae,yes,no,17,565,17/9/2013
+431,1744,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,536,17/9/2013
+432,1744,Juv,M,66,Idaea degeneraria,Insecta,Lepidoptera,Geometridae,no,no,28.5,408,17/9/2013
+433,1747,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,16614,18/9/2013
+434,1747,Juv,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,8762,18/9/2013
+435,1747,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,4737,18/9/2013
+436,1747,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,2065,18/9/2013
+437,1747,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1754,18/9/2013
+438,1747,Juv,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,1235,18/9/2013
+439,1747,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1095,18/9/2013
+440,1747,Juv,M,78,Noctua orbona,Insecta,Lepidoptera,Noctuidae,no,no,41.5,561,18/9/2013
+441,1747,Juv,M,31,Chloantha hyperici/ Helicoverpa armigera/ Palpita vitrealis,Insecta,Lepidoptera,Noctuidae/ Crambidae,yes,yes,33.5,539,18/9/2013
+442,1749,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,14283,18/9/2013
+443,1749,Juv,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,7427,18/9/2013
+444,1749,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,3928,18/9/2013
+445,1749,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,1645,18/9/2013
+446,1749,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1531,18/9/2013
+447,1749,Juv,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,1017,18/9/2013
+448,1749,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,975,18/9/2013
+449,1749,Juv,M,78,Noctua orbona,Insecta,Lepidoptera,Noctuidae,no,no,41.5,516,18/9/2013
+450,1749,Juv,M,31,Chloantha hyperici/ Helicoverpa armigera/ Palpita vitrealis,Insecta,Lepidoptera,Noctuidae/ Crambidae,yes,yes,33.5,469,18/9/2013
+451,1750,Juv,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,13848,18/9/2013
+452,1750,Juv,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,5858,18/9/2013
+453,1750,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,728,18/9/2013
+454,1751,Juv,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,20695,18/9/2013
+455,1751,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,593,18/9/2013
+456,1790,Juv,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,25225,22/9/2013
+457,1790,Juv,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,13217,22/9/2013
+458,1790,Juv,F,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,2203,22/9/2013
+459,1790,Juv,F,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,648,22/9/2013
+460,1792,Juv,M,45,Curculio elephas,Insecta,Coleoptera,Curculionidae,no,no,na,21389,22/9/2013
+461,1792,Juv,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,17155,22/9/2013
+462,1792,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,4462,22/9/2013
+463,1792,Juv,M,48,Cydia pomonella,Insecta,Lepidoptera,Tortricidae,no,no,18,3395,22/9/2013
+464,1792,Juv,M,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,3249,22/9/2013
+465,1792,Juv,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,2390,22/9/2013
+466,1792,Juv,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,1437,22/9/2013
+467,1792,Juv,M,94,Pyralis farinalis,Insecta,Lepidoptera,Pyralidae,yes,no,24,1353,22/9/2013
+468,1792,Juv,M,2,Acrobasis obliqua,Insecta,Lepidoptera,Pyralidae,no,no,na,937,22/9/2013
+469,1792,Juv,M,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,867,22/9/2013
+470,1797,Ad,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,23318,22/9/2013
+471,1797,Ad,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,9515,22/9/2013
+472,1797,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,3022,22/9/2013
+473,1801,Juv,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,35124,22/9/2013
+474,1801,Juv,F,93,Psorosa nucleolella*,Insecta,Lepidoptera,Pyralidae,no,no,na,12946,22/9/2013
+475,1801,Juv,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,3115,22/9/2013
+476,1801,Juv,F,14,Anomis cataggelus*,Insecta,Lepidoptera,Erebidae,no,no,na,2969,22/9/2013
+477,1801,Juv,F,35,Chrysopidae sp. 2,Insecta,Neuroptera,Chrysopidae,no,no,na,1302,22/9/2013
+478,1801,Juv,F,66,Idaea degeneraria,Insecta,Lepidoptera,Geometridae,no,no,28.5,669,22/9/2013
+479,1807,Ad,F,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,14732,22/9/2013
+480,1807,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,7483,22/9/2013
+481,1807,Ad,F,21,Botyodes diniasalis,Insecta,Lepidoptera,Crambidae,yes,no,30,3074,22/9/2013
+482,1807,Ad,F,4,Agonopterix scopariella,Insecta,Lepidoptera,Depressariidae,no,no,20.5,2289,22/9/2013
+483,1807,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1853,22/9/2013
+484,1807,Ad,F,95,Pyrausta aurata,Insecta,Lepidoptera,Crambidae,no,no,12.5,1843,22/9/2013
+485,1807,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,1213,22/9/2013
+486,1813,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,24889,22/9/2013
+487,1813,Juv,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,13076,22/9/2013
+488,1813,Juv,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,745,22/9/2013
+489,1813,Juv,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,444,22/9/2013
+490,1814,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,23707,22/9/2013
+491,1814,Juv,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,12265,22/9/2013
+492,1814,Juv,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,672,22/9/2013
+493,1814,Juv,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,412,22/9/2013
+494,1815,Ad,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,33145,22/9/2013
+495,1815,Ad,M,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,516,22/9/2013
+496,1829,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,27084,24/9/2013
+497,1829,Ad,F,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,332,24/9/2013
+498,1839,Ad,F,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,24704,24/9/2013
+499,1839,Ad,F,21,Botyodes diniasalis,Insecta,Lepidoptera,Crambidae,yes,no,30,355,24/9/2013
+500,1844,Ad,F,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,13238,24/9/2013
+501,1844,Ad,F,37,Cnephasia alfacarana,Insecta,Lepidoptera,Tortricidae,no,no,19,13124,24/9/2013
+502,1844,Ad,F,104,Tipula invenusta,Insecta,Diptera,Tipulidae,no,no,na,5357,24/9/2013
+503,1844,Ad,F,103,Insecta sp. 2,Insecta,unclassified Insecta,unclassified Insecta,no,no,na,2906,24/9/2013
+504,1844,Ad,F,58,Eupithecia oxycedrata/ rosmarinata/ Cucullia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,17.75,1993,24/9/2013
+505,1844,Ad,F,65,Hoplodrina octogenaria/ Caradrina flavirena/ Caradrina fuscicornis/ Caradrina  aspersa ,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,30.5,1459,24/9/2013
+506,1845,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,15571,24/9/2013
+507,1845,Ad,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,5507,24/9/2013
+508,1845,Ad,F,7,Agrochola lunosa,Insecta,Lepidoptera,Noctuidae,no,no,35,4214,24/9/2013
+509,1845,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,3130,24/9/2013
+510,1845,Ad,F,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,1986,24/9/2013
+511,1886,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,18360,8/10/2013
+512,1886,Ad,M,78,Noctua orbona,Insecta,Lepidoptera,Noctuidae,no,no,41.5,12258,8/10/2013
+513,1886,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2340,8/10/2013
+514,1886,Ad,M,26,Caradrina clavipalpis/ selinis,Insecta,Lepidoptera,Noctuidae,yes,no,30,918,8/10/2013
+515,1886,Ad,M,46,Cyclophora puppillaria,Insecta,Lepidoptera,Geometridae,yes,yes,32,550,8/10/2013
+516,1887,Juv,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,19273,8/10/2013
+517,1887,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,3340,8/10/2013
+518,1887,Juv,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,1152,8/10/2013
+519,1887,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,947,8/10/2013
+520,1887,Juv,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,300,8/10/2013
+521,1889,Juv,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,22770,8/10/2013
+522,1892,Ad,M,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,13338,8/10/2013
+523,1892,Ad,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,5139,8/10/2013
+524,1892,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,4174,8/10/2013
+525,1892,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2859,8/10/2013
+526,1892,Ad,M,75,Mythimna riparia,Insecta,Lepidoptera,Noctuidae,no,no,na,2037,8/10/2013
+527,1892,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,1503,8/10/2013
+528,1892,Ad,M,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,410,8/10/2013
+529,1900,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,11418,8/10/2013
+530,1900,Juv,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,4966,8/10/2013
+531,1900,Juv,M,67,Idaea laevigata,Insecta,Lepidoptera,Geometridae,no,no,20,502,8/10/2013
+532,1900,Juv,M,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,255,8/10/2013
+533,1906,Juv,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,23218,8/10/2013
+534,1906,Juv,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,3119,8/10/2013
+535,1906,Juv,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,2404,8/10/2013
+536,1907,Juv,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,28330,8/10/2013
+537,1907,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,373,8/10/2013
+538,1921,Ad,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,24908,10/10/2013
+539,1921,Ad,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,814,10/10/2013
+540,1921,Ad,M,78,Noctua orbona,Insecta,Lepidoptera,Noctuidae,no,no,41.5,465,10/10/2013
+541,1922,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,9992,10/10/2013
+542,1922,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,7435,10/10/2013
+543,1922,Ad,F,70,Leucania loreyi,Insecta,Lepidoptera,Noctuidae,yes,yes,39,6821,10/10/2013
+544,1922,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,6483,10/10/2013
+545,1922,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,6481,10/10/2013
+546,1922,Ad,F,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,1181,10/10/2013
+547,1922,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,859,10/10/2013
+548,1925,Juv,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,45264,10/10/2013
+549,1928,Juv,M,6,Agriphila geniculea,Insecta,Lepidoptera,Crambidae,no,no,23,14488,10/10/2013
+550,1928,Juv,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,6126,10/10/2013
+551,1928,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,2087,10/10/2013
+552,1928,Juv,M,73,Mythimna albipuncta,Insecta,Lepidoptera,Noctuidae,no,yes,32.5,384,10/10/2013
+553,1930,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,33053,10/10/2013
+554,1930,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,7094,10/10/2013
+555,1930,Ad,F,62,Heliothis peltigera,Insecta,Lepidoptera,Noctuidae,no,yes,38,838,10/10/2013
+556,1933,Ad,M,21,Botyodes diniasalis,Insecta,Lepidoptera,Crambidae,yes,no,30,23007,10/10/2013
+557,1933,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,3221,10/10/2013
+558,1933,Ad,M,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,3138,10/10/2013
+559,1933,Ad,M,34,Chrysopidae sp. 1,Insecta,Neuroptera,Chrysopidae,no,no,na,1121,10/10/2013
+560,1933,Ad,M,112,Wesmaelius subnebulosus,Insecta,Neuroptera,Hemerobiidae,no,no,na,463,10/10/2013
+561,1933,Ad,M,82,Nycteola revayana,Insecta,Lepidoptera,Nolidae,yes,no,22.5,363,10/10/2013
+562,1934,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,45937,10/10/2013
+563,1934,Ad,M,102,Thalpophila vitalba,Insecta,Lepidoptera,Noctuidae,yes,no,42,1099,10/10/2013
+564,1935,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,42211,10/10/2013
+565,1937,Juv,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,21467,10/10/2013
+566,1937,Juv,F,77,Noctua comes,Insecta,Lepidoptera,Noctuidae,yes,no,41,12923,10/10/2013
+567,1937,Juv,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,7777,10/10/2013
+568,1937,Juv,F,115,Xestia sexstrigata,Insecta,Lepidoptera,Noctuidae,no,no,37,537,10/10/2013
+569,1939,Ad,M,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,21468,10/10/2013
+570,1939,Ad,M,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,913,10/10/2013
+571,1939,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,858,10/10/2013
+572,1939,Ad,M,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,652,10/10/2013
+573,1940,Juv,F,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,14009,10/10/2013
+574,1940,Juv,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,7793,10/10/2013
+575,1940,Juv,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,5715,10/10/2013
+576,1940,Juv,F,101,Teleiopsis diffinis/ bagriotella/ Eupithecia sp.,Insecta,Lepidoptera,Gelechiidae/ Geometridae,no,no,17.5,1051,10/10/2013
+577,1940,Juv,F,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,661,10/10/2013
+578,1943,Ad,F,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,28243,10/10/2013
+579,1943,Ad,F,66,Idaea degeneraria,Insecta,Lepidoptera,Geometridae,no,no,28.5,6219,10/10/2013
+580,1943,Ad,F,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,1637,10/10/2013
+581,1943,Ad,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,1292,10/10/2013
+582,1943,Ad,F,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,1271,10/10/2013
+583,1943,Ad,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,1216,10/10/2013
+584,1943,Ad,F,43,Culiseta annulata/ subochrea,Insecta,Diptera,Culicidae,no,no,na,938,10/10/2013
+585,1943,Ad,F,32,Chrysopa viridana,Insecta,Neuroptera,Chrysopidae,no,no,na,805,10/10/2013
+586,1944,Juv,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,32822,10/10/2013
+587,1944,Juv,M,111,Uresiphita gilvata/ polygonalis,Insecta,Lepidoptera,Crambidae,no,yes,32,2090,10/10/2013
+588,1944,Juv,M,16,Aporophyla nigra,Insecta,Lepidoptera,Noctuidae,no,no,44,1620,10/10/2013
+589,1944,Juv,M,27,Caradrina morpheus,Insecta,Lepidoptera,Noctuidae,no,no,35,699,10/10/2013
+590,1946,Juv,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,24300,10/10/2013
+591,1946,Juv,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,11619,10/10/2013
+592,1946,Juv,F,76,Mythimna vitellina,Insecta,Lepidoptera,Noctuidae,no,yes,39.5,2990,10/10/2013
+593,1946,Juv,F,105,Tipula oleracea,Insecta,Diptera,Tipulidae,no,no,na,2506,10/10/2013
+594,1946,Juv,F,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,2154,10/10/2013
+595,1946,Juv,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,961,10/10/2013
+596,1946,Juv,F,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,807,10/10/2013
+597,1947,Juv,M,114,Xestia c-nigrum,Insecta,Lepidoptera,Noctuidae,yes,yes,40,13445,10/10/2013
+598,1947,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,6212,10/10/2013
+599,1947,Juv,M,64,Hoplodrina ambigua/ superstes,Insecta,Lepidoptera,Noctuidae,no,no,31,4598,10/10/2013
+600,1947,Juv,M,112,Wesmaelius subnebulosus,Insecta,Neuroptera,Hemerobiidae,no,no,na,1166,10/10/2013
+601,1947,Juv,M,17,Arthropoda sp.1,unclassified Arthropoda,unclassified Arthropoda,unclassified Arthropoda,no,no,na,882,10/10/2013
+602,1947,Juv,M,10,Agrotis puta,Insecta,Lepidoptera,Noctuidae,no,no,31,773,10/10/2013
+603,1952,Juv,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,21188,10/10/2013
+604,1952,Juv,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2378,10/10/2013
+605,1952,Juv,M,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,1003,10/10/2013
+606,1952,Juv,M,32,Chrysopa viridana,Insecta,Neuroptera,Chrysopidae,no,no,na,889,10/10/2013
+607,1958,Ad,M,53,Eublemma ostrina,Insecta,Lepidoptera,Erebidae,no,yes,21.5,38078,10/10/2013
+608,1958,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,2012,10/10/2013
+609,1958,Ad,M,84,Nysius graminicola,Insecta,Hemiptera,Lygaeidae,no,no,na,947,10/10/2013
+610,1958,Ad,M,1,Acrobasis bithynella,Insecta,Lepidoptera,Pyralidae,no,no,20,493,10/10/2013
+611,1976,Ad,M,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,15174,16/10/2013
+612,1976,Ad,M,12,Anarta trifolii/ Plemyria rubiginata/ Choristoneura hebenstreitella,Insecta,Lepidoptera,Noctuidae / Geometridae / Tortricidae,yes,yes,29,5701,16/10/2013
+613,1976,Ad,M,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,3550,16/10/2013
+614,1976,Ad,M,70,Leucania loreyi,Insecta,Lepidoptera,Noctuidae,yes,yes,39,2884,16/10/2013
+615,1976,Ad,M,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,2263,16/10/2013
+616,1976,Ad,M,79,Noctua pronuba/ janthe,Insecta,Lepidoptera,Noctuidae,yes,yes,38,584,16/10/2013
+617,1976,Ad,M,7,Agrochola lunosa,Insecta,Lepidoptera,Noctuidae,no,no,35,467,16/10/2013
+618,1978,Ad,F,19,Autographa gamma/ pulchrina,Insecta,Lepidoptera,Noctuidae,yes,yes,37.5,36709,16/10/2013
+619,1978,Ad,F,89,Phlogophora meticulosa,Insecta,Lepidoptera,Noctuidae,yes,yes,48.5,1423,16/10/2013
+620,1979,Ad,M,72,Mirificarma mulinella,Insecta,Lepidoptera,Gelechiidae,no,no,6.5,14546,16/10/2013
+621,1979,Ad,M,40,Crocallis dardoinaria,Insecta,Lepidoptera,Geometridae,no,no,49,9288,16/10/2013
+622,1979,Ad,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,7698,16/10/2013
+623,1979,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,955,16/10/2013
+624,1984,Ad,F,88,Peridroma saucia,Insecta,Lepidoptera,Noctuidae,yes,yes,50.5,17462,16/10/2013
+625,1984,Ad,F,11,Agrotis segetum/ trux,Insecta,Lepidoptera,Noctuidae,yes,no,37,12658,16/10/2013
+626,1984,Ad,F,8,Agrotis ipsilon,Insecta,Lepidoptera,Noctuidae,yes,yes,47.5,7745,16/10/2013
+627,1984,Ad,F,110,Tortrix viridana,Insecta,Lepidoptera,Tortricidae,yes,no,20.5,683,16/10/2013
+628,1984,Ad,F,81,Nomophila noctuella,Insecta,Lepidoptera,Crambidae,yes,yes,29,541,16/10/2013
+629,1985,Ad,M,18,Aspitates ochrearia,Insecta,Lepidoptera,Geometridae,yes,no,29.5,17686,16/10/2013
+630,1985,Ad,M,96,Rhodometra sacraria,Insecta,Lepidoptera,Geometridae,no,yes,25,6334,16/10/2013
+631,1985,Ad,M,49,Diptera sp.,Insecta,Diptera,unclassified Diptera,no,no,na,2280,16/10/2013
+632,1985,Ad,M,29,Caradrina morpheus/ Hypena sp./ Eupithecia sp.,Insecta,Lepidoptera,unclassified Lepidoptera,no,no,35,1162,16/10/2013
+633,1985,Ad,M,32,Chrysopa viridana,Insecta,Neuroptera,Chrysopidae,no,no,na,654,16/10/2013
